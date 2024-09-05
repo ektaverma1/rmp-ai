@@ -1,0 +1,124 @@
+{
+    "reviews": [
+      {
+        "professor": "Dr. Sarah Johnson",
+        "subject": "Biology",
+        "stars": 4,
+        "review": "Dr. Johnson's lectures are engaging and well-structured. She's always willing to help during office hours."
+      },
+      {
+        "professor": "Prof. Michael Chen",
+        "subject": "Computer Science",
+        "stars": 5,
+        "review": "Brilliant instructor! Prof. Chen makes complex concepts easy to understand and provides great real-world examples."
+      },
+      {
+        "professor": "Dr. Emily Rodriguez",
+        "subject": "Psychology",
+        "stars": 3,
+        "review": "Decent course content, but Dr. Rodriguez could improve on time management during lectures."
+      },
+      {
+        "professor": "Prof. David Thompson",
+        "subject": "History",
+        "stars": 4,
+        "review": "Prof. Thompson's passion for history is contagious. His assignments are challenging but fair."
+      },
+      {
+        "professor": "Dr. Lisa Patel",
+        "subject": "Chemistry",
+        "stars": 5,
+        "review": "Dr. Patel is an excellent teacher who goes above and beyond to ensure students grasp difficult concepts."
+      },
+      {
+        "professor": "Prof. Robert Wilson",
+        "subject": "Economics",
+        "stars": 2,
+        "review": "Prof. Wilson's lectures are often confusing, and he's not very approachable for questions."
+      },
+      {
+        "professor": "Dr. Jennifer Lee",
+        "subject": "English Literature",
+        "stars": 4,
+        "review": "Dr. Lee's enthusiasm for literature is evident. Her feedback on essays is particularly helpful."
+      },
+      {
+        "professor": "Prof. Alexander Ivanov",
+        "subject": "Physics",
+        "stars": 5,
+        "review": "Prof. Ivanov is a genius at explaining complex physics concepts. His demonstrations are always memorable."
+      },
+      {
+        "professor": "Dr. Maria Garcia",
+        "subject": "Sociology",
+        "stars": 3,
+        "review": "Dr. Garcia's lectures are informative, but the workload can be overwhelming at times."
+      },
+      {
+        "professor": "Prof. James Brown",
+        "subject": "Mathematics",
+        "stars": 4,
+        "review": "Prof. Brown is patient and thorough. He ensures everyone understands before moving on to new topics."
+      },
+      {
+        "professor": "Dr. Olivia Taylor",
+        "subject": "Art History",
+        "stars": 5,
+        "review": "Dr. Taylor's lectures are like taking a journey through time. Her knowledge and passion are inspiring."
+      },
+      {
+        "professor": "Prof. Samuel Kim",
+        "subject": "Political Science",
+        "stars": 2,
+        "review": "Prof. Kim's lectures can be dry, and the course material doesn't seem well-organized."
+      },
+      {
+        "professor": "Dr. Rachel Green",
+        "subject": "Environmental Science",
+        "stars": 4,
+        "review": "Dr. Green brings current environmental issues into the classroom, making the course very relevant."
+      },
+      {
+        "professor": "Prof. Thomas Müller",
+        "subject": "German Language",
+        "stars": 5,
+        "review": "Prof. Müller creates a fun and immersive environment for learning German. Highly recommended!"
+      },
+      {
+        "professor": "Dr. Aisha Patel",
+        "subject": "Neuroscience",
+        "stars": 3,
+        "review": "Dr. Patel is knowledgeable, but her exams are extremely difficult and don't always reflect the material covered in class."
+      },
+      {
+        "professor": "Prof. William Chang",
+        "subject": "Marketing",
+        "stars": 4,
+        "review": "Prof. Chang brings real-world marketing experience to the classroom. His projects are challenging but valuable."
+      },
+      {
+        "professor": "Dr. Emma Watson",
+        "subject": "Philosophy",
+        "stars": 5,
+        "review": "Dr. Watson's Socratic teaching style really encourages critical thinking. Her classes are always thought-provoking."
+      },
+      {
+        "professor": "Prof. Hassan Ahmed",
+        "subject": "Mechanical Engineering",
+        "stars": 3,
+        "review": "Prof. Ahmed knows his stuff, but sometimes struggles to explain complex concepts clearly."
+      },
+      {
+        "professor": "Dr. Sofia Rossi",
+        "subject": "Linguistics",
+        "stars": 4,
+        "review": "Dr. Rossi's enthusiasm for languages is infectious. Her assignments are creative and engaging."
+      },
+      {
+        "professor": "Prof. Daniel Lee",
+        "subject": "Music Theory",
+        "stars": 5,
+        "review": "Prof. Lee is an outstanding educator. His ability to break down complex musical concepts is unparalleled."
+      }
+    ]
+  }
